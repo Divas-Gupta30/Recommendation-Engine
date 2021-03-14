@@ -1,7 +1,4 @@
 # Content-Based-Movie-Recommender-System-with-sentiment-analysis-using-AJAX
-Use this command for execution:
- & python g:/web_dev/movie_recommendation/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis-master/main.py
-
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
