@@ -1,8 +1,4 @@
 # Movie-Recommender-System-with-sentiment-analysis
-![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-Flask-red)
-![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
-![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 
 
@@ -23,6 +19,12 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
 5. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 6. Hurray! That's it.
+
+## Demo
+![image](https://user-images.githubusercontent.com/60813213/116803394-e1361880-ab34-11eb-91c8-592a16f0d9ba.png)
+![image](https://user-images.githubusercontent.com/60813213/116803491-bdbf9d80-ab35-11eb-8e3e-6216146a9ee3.png)
+
+
 
 ## Similarity Score : 
 
